@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Atharv
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python
+👋 Hi, I'm Atharv
+👀 I'm passionate about Artificial Intelligence and its applications in Business Intelligence
+🌱 I'm currently mastering Python for data analysis and machine learning
+📊 Aspiring Business Intelligence Analyst
+[Connect with me on LinkedIn](https://www.linkedin.com/in/atharv-jangam/) to explore my professional journey!
+
+Let's harness data to drive insightful decisions! 🚀
 
 
 <!---
