@@ -6,7 +6,7 @@
 
 📊 Aspiring Business Intelligence Analyst
 
-Connect with me on LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/atharv-jangam/) to explore my professional journey!
+[Connect with me on LinkedIn](https://www.linkedin.com/in/atharv-jangam/) to explore my professional journey!
 
 Let's harness data to drive insightful decisions! 🚀
 
