@@ -1,4 +1,4 @@
-[![MasterHead]([https://github.com/Jangs13/Assets/blob/master/_import_6260e6d59d6b53.72176252_FPpreview.mp4](https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif))]
+![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
 <h1 align="center">Hi 👋, I'm Atharv Jangam</h1>
 <h3 align="center">I'm passionate about Data Analytics and Business Intelligence</h3>
 
