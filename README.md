@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Jangs13/Assets/blob/master/AdobeStock_735026095.jpeg)
+![MasterHead](https://github.com/Jangs13/Assets/blob/master/AdobeStock_719109208.jpeg)
 <h1 align="center">Hi 👋, I'm Atharv Jangam</h1>
 <h3 align="center">I'm passionate about Data Analytics and Business Intelligence</h3>
 
