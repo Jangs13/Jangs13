@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Pure SQL, Machine Learning, D3.js, Power BI**
 
 - 👨‍💻 Check you my website  [https://atharvjangam.netlify.app/](https://atharvjangam.netlify.app/)
-- 
+  
 - 💬 Ask me about **Data Analytics, Data Visualization, and Intelligence Tools**
 
 - 📫 How to reach me **ajangam@iu.edu**
