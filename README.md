@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning **Pure SQL, Machine Learning, D3.js, Power BI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jangs13](https://github.com/Jangs13)
-
+- 👨‍💻 Check you my website  [https://atharvjangam.netlify.app/](https://atharvjangam.netlify.app/)
+- 
 - 💬 Ask me about **Data Analytics, Data Visualization, and Intelligence Tools**
 
 - 📫 How to reach me **ajangam@iu.edu**
