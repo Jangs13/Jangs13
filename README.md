@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **ajangam@iu.edu**
 
-- ⚡ Fun fact **I once transformed a small spark of an idea into my very own startup, Stylopedia Technology Private Limited, where we turned data insights into game-changing strategies that sparked a 35% increase in conversions!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
