@@ -1,14 +1,14 @@
 ![MasterHead](https://github.com/Jangs13/Assets/blob/master/Untitled%20design%20(1).png)
 <h1 align="center">Hi 👋, I'm Atharv Jangam</h1>
-<h3 align="center">I'm passionate about Data Analytics and Business Intelligence</h3>
+<h3 align="center"> Atharv Jangam is a dedicated and skilled data scientist with a strong focus on AI, RAG, and ML. His ability to harness these technologies to deliver impactful solutions makes him a valuable asset to any organization seeking to advance its data-driven initiatives.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jangs13&label=Profile%20views&color=0e75b6&style=flat" alt="jangs13" /> </p>
 
-- 🌱 I’m currently learning **Pure SQL, Machine Learning, D3.js, Power BI**
+- 🌱 I’m currently learning **RAG, GenAI, Machine Learning**
 
 - 👨‍💻 Check you my website  [https://atharvjangam.netlify.app/](https://atharvjangam.netlify.app/)
   
-- 💬 Ask me about **Data Analytics, Data Visualization, and Intelligence Tools**
+- 💬 Ask me about **Data Analytics, Data Visualization, and GenAI**
 
 - 📫 How to reach me **ajangam@iu.edu**
 
